@@ -12,3 +12,8 @@ Specifications are in "online-1-B1.pdf"
 ## CSE_316_8086_Binary_Pattern
 8086 Assembly language implementation of showing the binary pattern of a single digit number and also determining whether it is odd or even  
 Specifications are in "online-2.pdf"
+
+## CSE_316_8086_Heapsort
+8086 Assembly language implementation of Heapsort of decimal numbers. It also includes the codes for input and output of decimal numbers  
+Specifications are in "Assignment 3 CSE-316.pdf"
+
