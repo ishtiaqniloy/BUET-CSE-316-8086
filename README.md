@@ -10,7 +10,7 @@ Specifications are in "Practice Problems (Week 1).pdf"
 Specifications are in "online-1-B1.pdf"
 
 ## CSE_316_8086_Binary_Pattern
-8086 Assembly language implementation of showing the binary pattern of a single digit number and also determining whether it is odd or even  
+8086 Assembly language implementation of showing the binary pattern of a single digit number and also of determining whether it is odd or even  
 Specifications are in "online-2.pdf"
 
 ## CSE_316_8086_Heapsort
